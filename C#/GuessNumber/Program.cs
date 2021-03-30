@@ -10,10 +10,11 @@ namespace GuessNumber
             int number = r.Next(0, 20);
             System.Console.WriteLine(number);
             int i = 0;
+            int guess;
             do
             {
                 System.Console.WriteLine("Guess the Number");
-                int guess = Int32.Parse(System.Console.ReadLine());
+                guess = Int32.Parse(System.Console.ReadLine());
                 if (guess > number)
                 {
                     System.Console.WriteLine("Your guess  is Greater than number ");
@@ -30,7 +31,8 @@ namespace GuessNumber
                 }
                 i++;
             } while (i < 3);
-            System.Console.WriteLine("You run out of guess chances");
+            System.Console.WriteLine();
+            if (guess != number) System.Console.WriteLine("You run out of guess chances");
 
 
         }
