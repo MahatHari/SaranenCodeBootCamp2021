@@ -1,0 +1,15 @@
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/bin/Debug/net5.0/GuessNumber.deps.json
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/bin/Debug/net5.0/GuessNumber.runtimeconfig.json
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/bin/Debug/net5.0/GuessNumber.runtimeconfig.dev.json
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/bin/Debug/net5.0/GuessNumber.dll
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/bin/Debug/net5.0/ref/GuessNumber.dll
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/bin/Debug/net5.0/GuessNumber.pdb
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/obj/Debug/net5.0/GuessNumber.csprojAssemblyReference.cache
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/obj/Debug/net5.0/GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/obj/Debug/net5.0/GuessNumber.AssemblyInfoInputs.cache
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/obj/Debug/net5.0/GuessNumber.AssemblyInfo.cs
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/obj/Debug/net5.0/GuessNumber.csproj.CoreCompileInputs.cache
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/obj/Debug/net5.0/GuessNumber.dll
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/obj/Debug/net5.0/ref/GuessNumber.dll
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/obj/Debug/net5.0/GuessNumber.pdb
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/CodeBootCampGit/C#/GuessNumber/obj/Debug/net5.0/GuessNumber.genruntimeconfig.cache
