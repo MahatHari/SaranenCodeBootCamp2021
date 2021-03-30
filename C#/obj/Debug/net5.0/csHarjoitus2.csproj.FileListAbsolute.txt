@@ -1,0 +1,15 @@
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/bin/Debug/net5.0/csHarjoitus2.deps.json
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/bin/Debug/net5.0/csHarjoitus2.runtimeconfig.json
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/bin/Debug/net5.0/csHarjoitus2.runtimeconfig.dev.json
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/bin/Debug/net5.0/csHarjoitus2.dll
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/bin/Debug/net5.0/ref/csHarjoitus2.dll
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/bin/Debug/net5.0/csHarjoitus2.pdb
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/obj/Debug/net5.0/csHarjoitus2.csprojAssemblyReference.cache
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/obj/Debug/net5.0/csHarjoitus2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/obj/Debug/net5.0/csHarjoitus2.AssemblyInfoInputs.cache
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/obj/Debug/net5.0/csHarjoitus2.AssemblyInfo.cs
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/obj/Debug/net5.0/csHarjoitus2.csproj.CoreCompileInputs.cache
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/obj/Debug/net5.0/csHarjoitus2.dll
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/obj/Debug/net5.0/ref/csHarjoitus2.dll
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/obj/Debug/net5.0/csHarjoitus2.pdb
+/Users/harimahat/Desktop/CodeBootCamp-Saranen/harjoitus2/csHarjoitus2/obj/Debug/net5.0/csHarjoitus2.genruntimeconfig.cache
