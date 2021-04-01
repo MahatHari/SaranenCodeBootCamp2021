@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Test Page";
+}
+
+<div>
+    <h2>
+        Trying Input Methods
+    </h2>
+
+    <input type="number"  id="num1"/>
+    <input type="number" id="num2"/>
+
+
+    <button id="calculate">Calculate</button>
+
+</div>
+@section scripts
+ {
+<script type="text/javascript">
+
+    //Jqery
+
+    $("#calculate").click(function () {
+        const num1 = $("#num1").val();
+        const num2 = $("#num2").val();
+
+        const sum = parseInt(num1) + parseInt(num2);
+
+        alert(sum);
+    })
+    /*
+
+    let input1 = document.getElementById("num1");
+    let input2 = document.getElementById("num2");
+
+    let sum = input1 + input2
+
+    let calculate = document.getElementById("calculate");
+    calculate.addEventListener(onclick)
+    */
+
+</script>
+}
