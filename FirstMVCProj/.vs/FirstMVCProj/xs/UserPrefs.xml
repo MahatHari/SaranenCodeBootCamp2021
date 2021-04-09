@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{6ACFAA42-40C7-4267-A85E-894FA6DB7333}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FirstMVCProj/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstMVCProj/Startup.cs">
     <Files>
-      <File FileName="FirstMVCProj/Controllers/HelloWorldController.cs" Line="1" Column="1" />
-      <File FileName="FirstMVCProj/Controllers/HomeController.cs" Line="30" Column="36" />
-      <File FileName="FirstMVCProj/Views/Shared/_Layout.cshtml" Line="26" Column="30" />
-      <File FileName="FirstMVCProj/Views/Home/Test.cshtml" Line="26" Column="10" />
-      <File FileName="FirstMVCProj/Views/Home/Index.cshtml" Line="9" Column="1" NotebookId="1" />
-      <File FileName="FirstMVCProj/Views/Home/Privacy.cshtml" Line="7" Column="1" NotebookId="1" />
+      <File FileName="FirstMVCProj/Views/Home/Index.cshtml" Line="9" Column="1" />
+      <File FileName="FirstMVCProj/Views/Home/Privacy.cshtml" Line="7" Column="1" />
+      <File FileName="FirstMVCProj/Startup.cs" Line="1" Column="1" />
+      <File FileName="FirstMVCProj/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="FirstMVCProj/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="FirstMVCProj/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,15 +14,14 @@
           <Node name="FirstMVCProj" expanded="True">
             <Node name="FirstMVCProj" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
-              </Node>
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
