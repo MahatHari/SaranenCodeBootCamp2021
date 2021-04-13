@@ -1,21 +1,29 @@
-﻿<Properties StartupConfiguration="{D2E15930-D5E3-41DE-A409-A5D53DE8015A}|Default">
-  <MonoDevelop.Ide.ItemProperties.Generics FirstBuild="True" />
+﻿<Properties StartupConfiguration="{0AF1D912-6AA6-4477-908F-50EB5327C08A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Project1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Car.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../LearningCSharp/Part4/FunWithGenericCollections/Program.cs">
     <Files>
-      <File FileName="Car/Program.cs" Line="17" Column="43" />
-      <File FileName="Car/Cars.cs" Line="18" Column="1" />
-      <File FileName="StringManipulation/Program.cs" Line="38" Column="1" />
-      <File FileName="Generics/Program.cs" Line="1" Column="1" />
-      <File FileName="Generics/Car.cs" Line="7" Column="10" />
+      <File FileName="../../../../LearningCSharp/Part4/MotivationForClasses/Program.cs" Line="49" Column="1" />
+      <File FileName="../../../../LearningCSharp/Part4/FunWithCollectionInitialization/Program.cs" />
+      <File FileName="../../../../LearningCSharp/Part4/FunWithGenericCollections/Program.cs" Line="78" Column="63" />
+      <File FileName="Generics/Program.cs" Line="65" Column="51" />
+      <File FileName="Generics/Asiakas.cs" Line="4" Column="25" />
+      <File FileName="../../../../LearningCSharp/Part4/FunWithGenericCollections/Person.cs" Line="1" Column="1" />
+      <File FileName="DatePractice/Program.cs" Line="22" Column="45" />
+      <File FileName="../../../../LearningCSharp/Part4/FunWithGenericCollections/SortedPeopleByAge.cs" Line="11" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Project1" expanded="True">
-            <Node name="Generics" expanded="True">
-              <Node name="Car.cs" selected="True" />
+          <Node name="Part4" expanded="True">
+            <Node name="FunWithCollectionInitialization" expanded="True" />
+            <Node name="FunWithGenericCollections" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="MotivationForClasses" expanded="True" />
+          </Node>
+          <Node name="Project1" expanded="True">
+            <Node name="DatePractice" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -32,4 +40,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DatePractice PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

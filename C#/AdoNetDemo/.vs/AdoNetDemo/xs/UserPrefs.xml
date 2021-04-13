@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{F97A0B01-A1FD-4BD7-9929-6B49D81806DF}|Default">
+  <MonoDevelop.Ide.ItemProperties.AdoNetDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdoNetDemo/Program.cs">
+    <Files>
+      <File FileName="AdoNetDemo/Program.cs" Line="47" Column="56" />
+      <File FileName="AdoNetDemo/Customer.cs" Line="4" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

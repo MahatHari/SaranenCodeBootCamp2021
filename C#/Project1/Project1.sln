@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{36AB1A34-E5D8-47EA-9C6F-57D5D1CE8253}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatePractice", "DatePractice\DatePractice.csproj", "{0AF1D912-6AA6-4477-908F-50EB5327C08A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -33,6 +35,10 @@ Global
 		{36AB1A34-E5D8-47EA-9C6F-57D5D1CE8253}.Debug|anycpu.Build.0 = Debug|anycpu
 		{36AB1A34-E5D8-47EA-9C6F-57D5D1CE8253}.Release|anycpu.ActiveCfg = Release|anycpu
 		{36AB1A34-E5D8-47EA-9C6F-57D5D1CE8253}.Release|anycpu.Build.0 = Release|anycpu
+		{0AF1D912-6AA6-4477-908F-50EB5327C08A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0AF1D912-6AA6-4477-908F-50EB5327C08A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0AF1D912-6AA6-4477-908F-50EB5327C08A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0AF1D912-6AA6-4477-908F-50EB5327C08A}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
