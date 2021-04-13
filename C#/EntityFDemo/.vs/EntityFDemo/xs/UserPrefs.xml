@@ -1,3 +1,35 @@
 ﻿<Properties StartupConfiguration="{694C9334-190F-429F-BFFC-DCB0F5E9E975}|Default">
+  <MonoDevelop.Ide.ItemProperties.EntityFDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/CurrentProductList.cs">
+    <Files>
+      <File FileName="../AdoNetDemo/AdoNetDemo/Program.cs" Line="14" Column="136" />
+      <File FileName="../AdoNetDemo/AdoNetDemo/Customer.cs" />
+      <File FileName="Program.cs" Line="12" Column="2" />
+      <File FileName="Models/Category.cs" Line="1" Column="1" />
+      <File FileName="Models/CurrentProductList.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+          <Node name="EntityFDemo" expanded="True">
+            <Node name="EntityFDemo" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="CurrentProductList.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
